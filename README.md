@@ -59,3 +59,80 @@ The system is based on a **Multi-Agent Architecture**:
 ---
 
 ## 🔄 Workflow Execution Flow
+Trigger → Orchestrator → Decision → Execution → Monitoring → Verification → Recovery
+
+
+- Fully automated execution  
+- Self-correcting system  
+- No manual intervention required  
+
+---
+
+## ⚙️ Tech Stack
+
+### 🖥️ Frontend:
+- React.js
+- Tailwind CSS
+- Recharts
+
+### 🔧 Backend:
+- Node.js (Express) / FastAPI (Python)
+
+### 🤖 AI Layer:
+- OpenAI API
+- LangChain / CrewAI / AutoGen
+
+### 🗄️ Database:
+- MongoDB / PostgreSQL
+
+### ⚡ Queue System:
+- Redis / BullMQ
+
+---
+
+## 📊 Key Features
+
+- 🔹 Autonomous workflow execution  
+- 🔹 Real-time SLA monitoring  
+- 🔹 Self-healing error system  
+- 🔹 Multi-agent collaboration  
+- 🔹 Transparent audit trail  
+- 🔹 Dashboard analytics  
+
+---
+
+## 💼 Use Cases
+
+### 👨‍💼 Employee Onboarding
+- Auto-assign tasks (HR, IT, Compliance)
+- Real-time tracking
+
+### 📅 Meeting Intelligence
+- Extract tasks from meetings
+- Assign owners automatically
+
+### ⏱️ SLA Prediction
+- Predict bottlenecks before failure
+
+### 📜 Audit Trail
+- Full transparency of actions and decisions
+
+---
+
+## 📈 Impact & Benefits
+
+- 🚀 Faster execution (hours instead of days)
+- 💰 Reduced operational costs
+- 🎯 Zero SLA breaches
+- 📊 Clear ownership of tasks
+- 🔍 Complete visibility and control
+
+---
+
+## 🖥️ Dashboard Features
+
+- Active Agents Count  
+- SLA Compliance %  
+- Workflows Executed  
+- Cost Saved  
+- Real-time Logs  
